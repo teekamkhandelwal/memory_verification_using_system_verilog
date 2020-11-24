@@ -2,6 +2,9 @@
 In this respiratory having two verification methods first have without scoreboard and monitor and second with includes all component
 memory design specification
 in memory design write and read signal is control by the two seperate signal wr_en and rd_en and have two bit address signal which create only  4 unique addresss for read write operation and data input for write operation is doing by wdata signal and data out  for read is rdata signal the memory block diagram is following
+
+![image](https://user-images.githubusercontent.com/72481400/100048173-3eb59300-2e3a-11eb-9aaa-4843f6a6d437.png)
+
 in rtl design hving following signals 
 
 ![image](https://user-images.githubusercontent.com/72481400/100047895-90a9e900-2e39-11eb-94b2-f571c0ebd4e8.png)
