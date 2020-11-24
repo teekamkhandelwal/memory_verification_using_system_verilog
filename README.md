@@ -8,9 +8,11 @@ in memory design write and read signal is control by the two seperate signal wr_
 
 ![image](https://user-images.githubusercontent.com/72481400/100048173-3eb59300-2e3a-11eb-9aaa-4843f6a6d437.png)
 
-1)write operation
+1)write operation-
 wr_en and wdata and addr  is done in one positive cycle
-2)read operation
+
+
+2)read operation-
 rd_en and addr its done in one cyclle and rdata is done in next cycle
 
 in rtl design hving following signals 
