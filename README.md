@@ -30,7 +30,10 @@ in first testbench contaning following component
 5) environment
 6) testbanch
 7) test
+
+
 and  testbench 2
+
 8) monitor
 9) scoreboard
 
