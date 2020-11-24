@@ -22,7 +22,7 @@ in rtl design hving following signals
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DESIGN VERIFICATION
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-in first testbench contaning filloeing component
+in first testbench contaning following component
 1) transaction
 2) interface
 3) driver
