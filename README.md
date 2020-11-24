@@ -5,6 +5,11 @@ in memory design write and read signal is control by the two seperate signal wr_
 
 ![image](https://user-images.githubusercontent.com/72481400/100048173-3eb59300-2e3a-11eb-9aaa-4843f6a6d437.png)
 
+write operation
+wr_en and wdata and addr  is done in one positive cycle
+read operation
+rd_en and addr its done in one cyclle and rdata is done in next cycle
+
 in rtl design hving following signals 
 
 ![image](https://user-images.githubusercontent.com/72481400/100047895-90a9e900-2e39-11eb-94b2-f571c0ebd4e8.png)
