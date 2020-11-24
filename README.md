@@ -30,12 +30,17 @@ in first testbench contaning following component
 5) environment
 6) testbanch
 7) test
+and  testbench 2
+8) monitor
+9) scoreboard
 
 testbench1 archtecture
 
 ![image](https://user-images.githubusercontent.com/72481400/100047204-e382a100-2e37-11eb-945c-e6aca0c99e60.png)
 
 testbench2 archtecture
+
+![image](https://user-images.githubusercontent.com/72481400/100103400-dba01c80-2e8a-11eb-9d9a-baf883e53a21.png)
 
 
 
