@@ -127,3 +127,8 @@ SIMULATION WAVEFORM
 ![image](https://user-images.githubusercontent.com/72481400/100048760-999bba00-2e3b-11eb-813e-c1ccc017b03c.png)
 
 
+updated code of memory verfication found on following link-
+
+https://www.edaplayground.com/x/tqmt
+
+
